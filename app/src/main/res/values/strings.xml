@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="history_college">The institution was inaugurated on 24 September 1955 by the lotus blessings of the then Chief Minister Dr. First a two-year course Surveyor and Computer, which had 60 and 40 admission capacity and a new course Draughtsman Civil was also started was. After this, a budgeting committee appointed by the Government of India inspected the institution in September 1958 and in its report recommended to discontinue these courses and run three-year diploma civil, electrical, mechanical. In 1959-60, the administrative work was transferred from Power (A) Department to Industries (D) Department. The Management Committee was reconstituted on September 30, 1959. After the establishment of the Directorate of Technical Education, the Director, Technical Education, Uttar Pradesh, Kanpur became the Chairman of the Management Committee and the name of the institution was changed to Murlidhar Gajanand Polytechnic Hathras. In the year 1975-76, three year diploma course courses were conducted in Electronics and Refrigeration and Air Conditioning. Presently training is being imparted in the following eight courses in the institution.</string>
+    <string name="about_college">एम जी पॉलिटेक्निक, हाथरस में कंप्यूटर केंद्र, पुस्तकालय और खेल की सुविधाएं हैं। कंप्यूटर केंद्र: कॉलेज का कंप्यूटर केंद्र परिसर नेटवर्किंग और इंटरनेट सुविधा का रखरखाव और प्रबंधन करता है। यह छात्रों और कर्मचारियों को वायर्ड और वाईफाई दोनों कनेक्टिविटी प्रदान करता है। केंद्र नवीनतम सिस्टम/एप्लीकेशन सॉफ्टवेयर, ऑपरेटिंग सिस्टम और विभिन्न यूटिलिटी सॉफ्टवेयर से लैस है। सभी छात्रों और कर्मचारियों को अकादमिक और शोध उद्देश्यों के लिए इंटरनेट का उपयोग करने की अनुमति है। पुस्तकालय: एमजी पॉलिटेक्निक का पुस्तकालय पारंपरिक और ऑनलाइन संसाधनों दोनों में पूरी तरह से स्वचालित और समृद्ध है। पुस्तकालय में मुद्रित के साथ-साथ इलेक्ट्रॉनिक संसाधनों का एक समृद्ध संग्रह है जिसमें पुस्तकें, पत्रिकाएँ, डेटाबेस, श्रव्य-दृश्य सामग्री और ई-पत्रिकाएँ शामिल हैं। खेल सुविधाएं: एमजी पॉलिटेक्निक परिसर में इनडोर और आउटडोर खेल सुविधाएं हैं। छात्रावास में कैरम, टेबल टेनिस, शतरंज जैसे इनडोर खेल उपलब्ध हैं। कॉलेज में एक सुसज्जित फुटबॉल मैदान और क्रिकेट मैदान है। इसमें एक हॉकी मैदान, हैंडबॉल, वॉलीबॉल और बैडमिंटन कोर्ट भी है। इन खेलों में प्रतियोगिताएं विश्वविद्यालय स्तर पर संस्थान में आयोजित की जाती हैं। संस्थान हर साल वार्षिक खेलों का आयोजन करता है जिसमें सभी विषयों के छात्र भाग लेते हैं। वाई-फाई: कॉलेज ने परिसर में वाई-फाई सेवाएं प्रदान की हैं और छात्र और कर्मचारी शैक्षणिक उद्देश्य के लिए इसका उपयोग कर सकते हैं।</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Light</item>
+        <item>Dark</item>
+
+    </string-array>
+</resources>
